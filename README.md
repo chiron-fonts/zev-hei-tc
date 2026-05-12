@@ -92,7 +92,7 @@ Zev Hei TC 宙黑體
 --------------------
 字體目前提供以下使用配置：
 
-- 字變字體 (Variable Font)，包括 .otf 和 .ttf 格式。
+- 可變字體 (Variable Font)，包括 .otf 和 .ttf 格式。
 - 網頁字體 (Web Font)，包括 OpenType outline 和 TrueType outline 的格式。
 
 下載

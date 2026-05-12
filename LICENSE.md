@@ -1,10 +1,16 @@
-Copyright 2023-2026 Tamcy (https://github.com/chiron-fonts/zev-hei-tc).
+Copyright 2026 Tamcy (https://github.com/chiron-fonts/zev-hei-tc).
+
+This font is based on Source Han Sans, Copyright 2014-2025 Adobe
+(http://www.adobe.com/), with Reserved Font Name 'Source'.
+
+Incorporates Mona Sans, Copyright 2022 The Mona Sans Project Authors
+(https://github.com/github/mona-sans), with Reserved Font Name "Mona".
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
 
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://openfontlicense.org
 
 -----------------------------------------------------------
 
