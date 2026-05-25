@@ -1,0 +1,23 @@
+{
+    "name": "zev-hei-tc-webfont-truetype",
+    "version": "0.0.6",
+    "description": "Webfont version of Zev Hei TC, a Traditional Chinese typeface.",
+    "keywords": [
+        "Traditional Chinese",
+        "webfont",
+        "font",
+        "cjk",
+        "sans",
+        "woff2"
+    ],
+    "homepage": "https:\/\/github.com\/chiron-fonts\/zev-hei-tc",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https:\/\/github.com\/chiron-fonts\/zev-hei-tc"
+    },
+    "author": "Tamcy",
+    "license": "OFL-1.1"
+}
