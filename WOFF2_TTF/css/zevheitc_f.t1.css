@@ -1,8 +1,8 @@
 /**
  * Font family: ZevHeiTC-F Web, generated from ZevHeiTC-F
- * Version: 0.007
+ * Version: 0.008
  * Website: https://chiron-fonts.github.io/
- * Build time: 2026-05-25 23:53:55
+ * Build time: 2026-10-18 11:18:19
  */
 /* [t0/lgc] (569) */
 @font-face {
@@ -993,6 +993,15 @@
   font-display: swap;
   src: url('../woff2/zevheitc_f/t0/db.woff2') format('woff2-variations'), url('../woff2/zevheitc_f/t0/db.woff2') format('woff2 supports variations');
   unicode-range: U+2047-2048, U+2e3a-2e3b;
+}
+/* [t0/gfx_92] (98) */
+@font-face {
+  font-family: 'ZevHeiTC-F Web';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('../woff2/zevheitc_f/t0/gfx_92.woff2') format('woff2-variations'), url('../woff2/zevheitc_f/t0/gfx_92.woff2') format('woff2 supports variations');
+  unicode-range: U+2472-2473, U+2482-2487, U+2492-24b5, U+24c6, U+24cb, U+24cd, U+24cf, U+24e0, U+24eb-24f4, U+24f6-24fe, U+3251-325f, U+32b1-32bf;
 }
 /* [t0/m0] (7) */
 @font-face {
