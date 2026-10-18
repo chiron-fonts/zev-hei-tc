@@ -5,6 +5,8 @@ Zev Hei TC 宙黑體
 
 宙黑體是由[昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk/)改造而成的免費黑體字型，提供與昭源黑體不同的字形風格。
 
+本字體的「N」版是 [Zevacode](https://github.com/chiron-fonts/Zevacode-TC) 的基礎字體。
+
 比較
 --------------------
 
